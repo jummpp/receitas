@@ -1,6 +1,6 @@
-# Cookbook :man_cook:
+# Livro de receitas :man_cook:
 
-#### Hello, World!! Welcome to my favorite foods cookbook
+#### Olá, Mundo! Bem-vindo ao meu livro de receitas com meus pratos favoritos.
 
 - ##### Strogonoff
 
